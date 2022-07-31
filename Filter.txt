@@ -1,2 +1,6 @@
-youtube.com###search-icon-legacy:style(color-scheme: only light)
-reddit.com##.threadline:style(color-scheme: only light)
+!Disable auto dark theme
+reddit.com##:root { color-scheme: only light }
+youtube.com##:root { color-scheme: only light }
+crave.ca##:root { color-scheme: only light }
+twitch.tv##:root { color-scheme: only light }
+spotify.com##:root { color-scheme: only light }
