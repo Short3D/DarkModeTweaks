@@ -1,0 +1,2 @@
+youtube.com###search-icon-legacy:style(color-scheme: only light)
+reddit.com##.threadline:style(color-scheme: only light)
