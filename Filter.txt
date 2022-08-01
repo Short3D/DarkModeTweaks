@@ -1,4 +1,5 @@
 !Disable auto dark theme
+speedtest.net##:root { color-scheme: only light }
 reddit.com##:root { color-scheme: only light }
 youtube.com##:root { color-scheme: only light }
 crave.ca##:root { color-scheme: only light }
