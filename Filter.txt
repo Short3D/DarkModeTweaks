@@ -8,3 +8,5 @@ spotify.com#$#:root { color-scheme: only dark }
 steamcommunity.com#$#:root { color-scheme: only dark }
 twitch.tv#$#:root { color-scheme: only dark }
 youtube.com#$#:root { color-scheme: only dark }
+netflix.com#$#:root { color-scheme: only dark }
+disneyplus.com#$#:root { color-scheme: only dark }
