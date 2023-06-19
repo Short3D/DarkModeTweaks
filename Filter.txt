@@ -5,3 +5,5 @@ crave.ca#$#:root { color-scheme: only light }
 twitch.tv#$#:root { color-scheme: only light }
 spotify.com#$#:root { color-scheme: only light }
 jklm.fun#$#:root { color-scheme: only light }
+discord.com#$#:root { color-scheme: only light }
+steamcommunity.com#$#:root { color-scheme: only light }
