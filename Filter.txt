@@ -7,3 +7,4 @@ spotify.com#$#:root { color-scheme: only light }
 jklm.fun#$#:root { color-scheme: only light }
 discord.com#$#:root { color-scheme: only light }
 steamcommunity.com#$#:root { color-scheme: only light }
+github.com#$#:root { color-scheme: only light }
