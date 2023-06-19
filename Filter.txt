@@ -4,3 +4,4 @@ youtube.com#$#:root { color-scheme: only light }
 crave.ca#$#:root { color-scheme: only light }
 twitch.tv#$#:root { color-scheme: only light }
 spotify.com#$#:root { color-scheme: only light }
+jklm.fun#$#:root { color-scheme: only light }
