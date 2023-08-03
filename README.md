@@ -2,7 +2,7 @@
 Filter list to fix problems with chromes auto dark theme.
 
 # Usage
-Enable Auto Dark Mode for Web Contents in edge/chrome flags and preferably set it to: <br>`selective inversion of non-image elements`
+Enable Auto Dark Mode for Web Contents in Edge/Chrome flags and preferably set it to: <br>`selective inversion of non-image elements`
 
 Then add: <br>`https://raw.githubusercontent.com/Short3D/DarkModeTweaks/main/Filter.txt` <br>to your content blocker as a custom filter list.
 
