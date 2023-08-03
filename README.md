@@ -1,5 +1,5 @@
 # DarkModeTweaks
-Filter list to fix problems with chromes auto dark theme.
+Filter list to fix problems with Chromium auto dark theme.
 
 # Usage
 Enable Auto Dark Mode for Web Contents in Edge/Chrome flags and preferably set it to: <br>`selective inversion of non-image elements`
