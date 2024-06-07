@@ -5,7 +5,7 @@ jklm.fun#$#:root { color-scheme: only dark }
 reddit.com#$#:root { color-scheme: only dark }
 speedtest.net#$#:root { color-scheme: only dark }
 spotify.com#$#:root { color-scheme: only dark }
-steamcommunity.com#$#[class*="_2UEUT0mVy2VL0cqXLMSFJL"] { color-scheme: only dark }
+steamcommunity.com#$#:root { color-scheme: only dark }
 twitch.tv#$#:root { color-scheme: only dark }
 youtube.com#$#:root { color-scheme: only dark }
 netflix.com#$#:root { color-scheme: only dark }
