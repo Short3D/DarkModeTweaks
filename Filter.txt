@@ -1,3 +1,5 @@
+! Remove meta forcing color scheme
+##meta[name="color-scheme"]:remove()
 crave.ca#$#:root { color-scheme: only dark }
 discord.com#$#[class*="qrCode-"] { color-scheme: only dark }
 github.com#$#:root { color-scheme: only dark }
