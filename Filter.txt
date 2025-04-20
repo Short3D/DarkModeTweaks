@@ -12,3 +12,4 @@ youtube.com#$#:root { color-scheme: only dark !important; }
 netflix.com#$#:root { color-scheme: only dark !important; }
 disneyplus.com#$#:root { color-scheme: only dark !important; }
 music.amazon.ca#$#:root { color-scheme: only dark !important; }
+jackbox.tv#$#:root { color-scheme: only dark !important; }
