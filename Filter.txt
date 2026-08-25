@@ -15,4 +15,4 @@ disneyplus.com#$#:root { color-scheme: only dark !important; }
 music.amazon.ca#$#:root { color-scheme: only dark !important; }
 jackbox.tv#$#:root { color-scheme: only dark !important; }
 app.monsgeek.com#$#:root { color-scheme: only dark !important; }
-v3-hub.atkgear.com#$#:root { color-scheme: only dark !important; }
+v3-hub.atk.store#$#:root { color-scheme: only dark !important; }
